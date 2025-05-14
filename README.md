@@ -1,4 +1,4 @@
-# RRT Path Planning with Input Redirection
+# RRT Path Planning
 
 ## Overview
 
