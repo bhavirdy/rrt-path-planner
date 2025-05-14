@@ -4,6 +4,8 @@
 
 This script implements a 2D Rapidly-exploring Random Tree (RRT) path planner. Given a start and goal point and a list of rectangular obstacles, it finds a collision-free path and outputs the waypoints the robot should follow.
 
+RRT was chosen over PRM because this is a single-query problem (one start and one goal).
+
 ## Input Format
 
 Prepare your input in a text file (e.g., input.txt) with the following format:
